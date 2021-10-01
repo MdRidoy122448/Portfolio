@@ -1,2 +1,7 @@
 *{margin:0px; padding:0px;}
-h1{color:aqua;}
+h1{
+    color:rgb(255, 60, 0); 
+    font-size: 200px;
+    width: 250px;
+    margin:auto;
+}
