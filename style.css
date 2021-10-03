@@ -1,7 +1,16 @@
-*{margin:0px; padding:0px;}
-h1{
-    color:rgb(255, 60, 0); 
-    font-size: 200px;
-    width: 250px;
-    margin:auto;
+body{
+    font-family: 'Poppins', sans-serif;
+}
+.head-tag{
+    font-size:40px;
+}
+.orange-color{
+    color:rgb(247, 136, 73);
+}
+.half-width{
+    width:40%;
+    float:left;
+}
+.half-width img{
+    width:100%;
 }
