@@ -15,10 +15,11 @@ body{
     width:35%;
     float:left;
     margin-left:5%;
-    padding:5%;
+    padding:4%;
+    border:1px solid red;
 }
 .half-width img{
-    width:80%;
+    width:100%;
 }
 .anchor{
     text-decoration:none;
@@ -29,16 +30,17 @@ body{
     border-radius:5px;
     font-weight:700;
 }
+section{
+    height: 500px;
+}
 
 .top-banner{
     background-image:url(Images/top-banner.png) ;
     background-repeat:no-repeat;
-    height: 500px;
 }
 .second-section{
     background-image: url(Images/dream-bg.png);
     background-repeat:no-repeat;
-    height:500px;
     background-position: right;
 }
 
